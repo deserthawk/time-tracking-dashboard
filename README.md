@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/grid-flexbox-responsive-time-tracking-dashboard-C7ezl_b0V)
 - Live Site URL: [Live site URL](https://deserthawk.github.io/time-tracking-dashboard/)
 
 ## My process
