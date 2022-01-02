@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://deserthawk.github.io/time-tracking-dashboard/)
 
 ## My process
 
@@ -45,4 +45,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/deserthawk)
+- Frontend Mentor - [@deserthawk](https://www.frontendmentor.io/profile/deserthawk)
